@@ -20,7 +20,7 @@ let blend = require('color-blending')
 Pretty straightforward :
 
 ```
-console.log(blend("#E6E6FA", "#FF69B4", "#B0C4DE")) => "#DCB1D9"
+console.log(blend("#E6E6FA", "#FF69B4", "#B0C4DE"))
 ```
 
 ## Contributing
