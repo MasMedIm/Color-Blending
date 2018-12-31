@@ -1,0 +1,27 @@
+{
+  "name": "color-blending",
+  "version": "1.0.0",
+  "description": "Blend RGB colors !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasMedIm/Color-Blending.git"
+  },
+  "keywords": [
+    "Color",
+    "RGB",
+    "Hex",
+    "Blending",
+    "Fun",
+    "Reddit"
+  ],
+  "author": "Salim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasMedIm/Color-Blending/issues"
+  },
+  "homepage": "https://github.com/MasMedIm/Color-Blending#readme"
+}
