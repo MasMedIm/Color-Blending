@@ -1,3 +1,5 @@
+![Image!](https://i.stack.imgur.com/GWvS4.jpg)
+
 # To know !
 
 This dependency was created just for fun and should NOT be in a production environment.
